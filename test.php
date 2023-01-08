@@ -16,6 +16,7 @@
 
 <body>
   <div id="demo">Demo</div>
+  <div id="SydneyWeatherInfo">Demo</div>
 </body>
 
 </html>
